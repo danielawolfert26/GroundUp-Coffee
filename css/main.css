@@ -14,7 +14,7 @@ header {
     background-color: #6B350E;
     background-image: url(../images/header-photo.jpg);
     background-position: center;
-    background-size: 100% auto;
+    background-size: auto;
 }
 
 .hero {
